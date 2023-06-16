@@ -1,6 +1,5 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
-public class Main {
+public class TemperatureConverter {
+
   public static void main(String[] args) {
     int celsiusTemp = 30;
     int fahrenheitTemp = (int) (celsiusTemp * 1.8) + 32;
