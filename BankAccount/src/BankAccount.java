@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BankAccount {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     Account newAccount = new Account("Daniel Fasanaro", "Corrente", 1500.00);
